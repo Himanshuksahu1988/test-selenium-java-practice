@@ -2,3 +2,11 @@ target/
 .idea/
 *.iml
 out/
+.classpath
+.metadata
+.project
+.settings
+*.log
+*.tmp
+*.bak
+test-output
