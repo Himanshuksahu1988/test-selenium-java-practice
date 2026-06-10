@@ -6,6 +6,9 @@
 
         <classes>
             <class name="tests.GoogleTest"/>
+            <class name="tests.RSAValidation"/>
+            <class name="tests.SampleTest"/>
+
         </classes>
 
     </test>
